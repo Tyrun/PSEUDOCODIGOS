@@ -1,4 +1,4 @@
-Algoritmo Ejercicio3
+Algoritmo DibujarBarcoPseint
 	Esperar 1500 Milisegundos
 	Borrar Pantalla
 	Dimension barco[7]
